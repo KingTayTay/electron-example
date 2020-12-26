@@ -1,6 +1,6 @@
 # electron-example
 
-An example electron app using :typescript: Typescript and :package: Parcel
+An example electron app using :thumbsup: Typescript and :package: Parcel
 
 ## Starting for Development
 
