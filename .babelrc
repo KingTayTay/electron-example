@@ -1,0 +1,13 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [
+    "transform-object-rest-spread", 
+    "transform-react-jsx",
+    ["transform-imports", {
+      "lodash": {
+        "transform": "lodash/fp/${member}",
+        "preventFullImport": true
+      }
+    }]
+  ]
+}
